@@ -1,16 +1,17 @@
 <!-- BANNER + INTRO (SIDE BY SIDE) -->
-<table>
+<table> 
   <tr>
     <td width="40%" align="center">
-      <img src="<img src="https://cdn.dribbble.com/userupload/21436944/file/original-3212fe7a869a76063e59d76c39176c45.gif" width="100%" />" 
-           alt="banner" 
-           width="100%" 
-           style="border-radius: 10px;" />
+      <img 
+        src="https://cdn.dribbble.com/userupload/22553551/file/original-a8e26bd26ac91a056bb4c57374fd2694.gif"
+        alt="banner"
+        width="100%"
+        style="border-radius: 10px;"
+      />
     </td>
     <td width="60%" valign="top">
       <h1>Hi 👋, I'm <span style="color:#4da6ff;">Van Hoang</span></h1>
       <h3>A passionate Fullstack Developer from Vietnam</h3>
-
       <p>
         Fullstack Developer with 1+ years of experience in building responsive, high-performance web applications using modern technologies.
         Proficient in <strong>JavaScript, TypeScript, React, Next.js</strong> and styling with 
@@ -22,7 +23,7 @@
         Familiar with <strong>Docker, GitHub Actions, CI/CD workflows</strong>.<br/><br/>
         Committed to writing clean, efficient code and collaborating with cross-functional teams.
       </p>
-    </td>
+    </td> 
   </tr>
 </table>
 
@@ -84,9 +85,12 @@
 ---
 
 ## 📊 GitHub Stats
+  ![](https://github-readme-stats.vercel.app/api?username=NgVanHoang0800&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=NgVanHoang0800&theme=dark&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NgVanHoang0800&layout=compact&theme=dark&hide_border=false)
+  
 
-![](https://github-readme-stats.vercel.app/api?username=NgVanHoang0800&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=NgVanHoang0800&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NgVanHoang0800&theme=dark&hide_border=false&layout=compact)
+  
+
 
 
